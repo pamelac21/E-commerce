@@ -14,5 +14,5 @@ app.use(routes);
 app.listen(PORT, () => {
   console.log(`App listening on port ${PORT}!`);
 });
-// http://localhost.3001
+// http://localhost:3001
 // https://bloodcurdling-goblin-77821.herokuapp.com/ | https://git.heroku.com/bloodcurdling-goblin-77821.git
