@@ -1,7 +1,7 @@
 # E-commerce
 
 ## Description
-My goal is to build the back end for an e-commerce site by taking a working Express.js API and configuring it to use Sequelize to interact with a MySQL database. Since this project will not be deployed, please check out the full walkthrough video posted below to view its functionality.
+My goal is to build the back end for an e-commerce site by taking a working Express.js API and configuring it to use `Sequeliz`e to interact with a `MySQL` database. Since this project will not be deployed, please check out the full walkthrough video posted below to view its functionality.
 
 ```md
 GIVEN a functional Express.js API
