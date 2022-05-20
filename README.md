@@ -18,11 +18,11 @@ My goal is to build the back end for an e-commerce site by taking a working Expr
 
 - [Installation](#getting-started)
 - [Usage](#usage)
-- [Deployed Site](#deployed-site)
+- [Demo](#demo)
 - [Tech Used](#tech-used)
 - [Contact](#contact)
 - [License](#license)
-- [Contributing](#contributing)
+- [Contributing](#contact)
 
 
 ```md
@@ -75,6 +75,14 @@ Enter PW when promted
 `npm run seed`
   
 `npm start`
+
+
+## Tech Used
+    `bcrypt`
+    `dotenv`
+    `express`
+    `mysql2`
+    `sequelize`
 
 
 ## Contact
