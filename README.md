@@ -78,11 +78,11 @@ Enter PW when promted
 
 
 ## Tech Used
-    `bcrypt`
-    `dotenv`
-    `express`
-    `mysql2`
-    `sequelize`
+`bcrypt`
+`dotenv`
+`express`
+`mysql2`
+`sequelize`
 
 
 ## Contact
