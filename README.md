@@ -38,7 +38,9 @@ Clone [the starter code](https://github.com/coding-boot-camp/fantastic-umbrella)
 [email](mailto:pamelac021@gmail.com)
 
 
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
