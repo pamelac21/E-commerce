@@ -3,6 +3,19 @@
 ## Description
 My goal is to build the back end for an e-commerce site by taking a working Express.js API and configuring it to use `Sequeliz`e to interact with a `MySQL` database. Since this project will not be deployed, please check out the full walkthrough video posted below to view its functionality.
 
+
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Deployed Site](#deployed-site)
+- [Tech Used](#tech-used)
+- [Contact](#contact)
+- [License](#license)
+- [Contributing](#contributing)
+
+
 ```md
 GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
